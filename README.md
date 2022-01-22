@@ -2,7 +2,7 @@
 
 I'm Adriana Tiemi Watanabe. 
 
-- 👩🏻‍💻 I’m currently learning Front-End.
+- 👩🏻‍💻 I’m currently learning _**HTML5, CSS3 and Vanilla JavaScript.**_
 - 🙂 Pronouns: ela/dela
 
 ### Linguagens:
