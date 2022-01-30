@@ -4,7 +4,7 @@ I'm Adriana Tiemi Watanabe.
 I'm a student of the Laboratoria bootcamp - 1 semester of 2022.
 
 - 👩🏻‍💻 I’m currently learning _**HTML5, CSS3 and Vanilla JavaScript.**_
-- 🙂 Pronouns: ela/dela
+- 🙂 Pronouns: ela/dela/she/her
 
 ### Linguagens:
 <div style="display: inline_block">
