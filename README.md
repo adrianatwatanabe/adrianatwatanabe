@@ -55,14 +55,19 @@
       </td>
     </tr>
   </table>
-
-  <br>
+<br>
 
   <div>
     <a href="mailto:a.kirstein.w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://www.instagram.com/adrianatwatanabe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Fernanda_Leandra"></a>
   </div>
-</div>
 
 <hr>
+<img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianatwatanabe&show_icons=true&theme=radical&include_all_commits=true"/>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatwatanabe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
+  
+ ![Snake animation](https://github.com/adrianatwatanabe/adrianatwatanabe/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
