@@ -6,9 +6,7 @@
   <li>🙋🏻‍♀️ <strong>Pronouns:</strong> ela | dela | ella | she | her</li>
   <li>🇧🇷 <strong>Localization:</strong> Brazil</li>
 </ul>
-
-<hr>
-
+<br>
 <div align="center">
   <h2> 🛠 Skills and Tools:</h2>
 
