@@ -24,7 +24,6 @@
           <img alt="PHP" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /></a>
           <img alt="Java" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /></a>
           <img alt="Firebase" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
-          <img alt="Markdown" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" />
           <img alt="NPM" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
         </div>
       </td>
