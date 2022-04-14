@@ -66,7 +66,6 @@
 <hr>
 
 <br>
-<img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatwatanabe&show_icons=true&layout=compact&theme=radical"/></p> 
 <img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianatwatanabe&show_icons=true&theme=radical&include_all_commits=true"/>
   
   
