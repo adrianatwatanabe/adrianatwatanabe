@@ -1,15 +1,15 @@
 <h1 align="center">Hello World, I'm Adriana Tiemi Watanabe!</h1>
 <br>
+<br>
 <ul>
   <li>📚 I'm in career transition, from Fashion designer to Programmer and UX Design.</li>
   <li>👩🏻‍💻 I'm a Front-end Developer Jr student at the <a href="https://github.com/Laboratoria">Laboratoria Brazil</a> - 1 semester of 2022.</li>
   <li>🙋🏻‍♀️ <strong>Pronouns:</strong> ela | dela | ella | she | her</li>
   <li>🇧🇷 <strong>Localization:</strong> Brazil</li>
 </ul>
+
 <br>
 <div align="center">
-  <h2> 🛠 Skills and Tools:</h2>
-
 
   <table>
     <tr>
@@ -56,17 +56,19 @@
     </tr>
   </table>
 <br>
-
-  <div>
+<div align="center">
     <a href="mailto:a.kirstein.w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
       <a href="https://www.instagram.com/adrianatwatanabe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Fernanda_Leandra"></a>
-  </div>
+</div>
+  
 
 <hr>
+
+<br>
+<img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatwatanabe&show_icons=true&layout=compact&theme=radical"/></p> 
 <img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianatwatanabe&show_icons=true&theme=radical&include_all_commits=true"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatwatanabe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
   
  ![Snake animation](https://github.com/adrianatwatanabe/adrianatwatanabe/blob/output/github-contribution-grid-snake.svg)
  
