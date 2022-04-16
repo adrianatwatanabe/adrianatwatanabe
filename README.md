@@ -66,7 +66,9 @@
 
 <br>
 <img alt="adriana" height="180em" src="https://github-readme-stats.vercel.app/api?username=adrianatwatanabe&show_icons=true&theme=radical&include_all_commits=true"/>
-  
+<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrianatwatanabe&layout=compact&langs_count=7&theme=radical"/>
+<br><br>
   
  ![Snake animation](https://github.com/adrianatwatanabe/adrianatwatanabe/blob/output/github-contribution-grid-snake.svg)
  
