@@ -57,7 +57,6 @@
 <div align="center">
   <a href="mailto:a.kirstein.w@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email de Adriana T Watanabe">
   <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Adriana T Watanabe"></a>
-  <a href="https://www.instagram.com/adrianatwatanabe/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Adriana T Watanabe"></a>
 </div>
   
 
