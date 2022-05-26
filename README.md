@@ -16,21 +16,21 @@
       <td>
         <h3>Full stack development:</h3>
         <div style="display: inline_block">
-          <img alt="VSCode" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-          <img alt="Git" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
-          <img alt="HTML5" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-          <img alt="CSS3" width="35" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-          <img alt="ECMAScript/JavaScript" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
-          <img alt="PHP" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /></a>
-          <img alt="Java" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" /></a>
-          <img alt="Firebase" width="35" height="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" />
+          <img alt="VSCode" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+          <img alt="Git" width="60" height="60" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
+          <img alt="HTML5" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
+          <img alt="CSS3" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
+          <img alt="ECMAScript/JavaScript" width="37" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+          <img alt="PHP" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /></a>
+          <img alt="Java" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" /></a>
+          <img alt="Firebase" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />
         </div>
       </td>
       <td>
         <h3>Planning:</h3>
         <div style="display: inline_block">
-          <img alt="Trello" height="35" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg">
-          <img alt="Slack" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg">
+          <img alt="Trello" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg">
+          <img alt="Slack" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original-wordmark.svg">
         </div>
       </td>
     </tr>
