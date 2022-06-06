@@ -21,9 +21,11 @@
           <img alt="HTML5" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg">
           <img alt="CSS3" width="45" height="50" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg">
           <img alt="ECMAScript/JavaScript" width="37" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg">
+          <img alt="React" width="37" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
           <img alt="PHP" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" /></a>
           <img alt="Java" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg" /></a>
-          <img alt="Firebase" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />
+          <img alt="Firebase" width="50" height="50" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" />        
+          <img alt="Jest" width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" />    
         </div>
       </td>
       <td>
