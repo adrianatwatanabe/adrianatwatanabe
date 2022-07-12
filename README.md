@@ -3,7 +3,6 @@
 <br>
 <ul>
   <li>📚 I'm in career transition, from Fashion designer to Programmer and UX Design.</li>
-  <li>👩🏻‍💻 I'm a Front-end Developer Jr student at the <a href="https://github.com/Laboratoria">Laboratoria Brazil</a> - 1 semester of 2022.</li>
   <li>🙋🏻‍♀️ <strong>Pronouns:</strong> ela | dela | ella | she | her</li>
   <li>🇧🇷 <strong>Localization:</strong> Brazil</li>
 </ul>
