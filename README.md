@@ -1,8 +1,7 @@
 <h1 align="center">Olá, sou Adriana Tiemi Watanabe.</h1>
 
 
-  - 👩🏻‍🎓 Atualmente estou cursando o tecnólogo em Análise e Desenvolvimento de Sistemas pela FATEC Mogi das Cruzes.
-  - 💻 Possuo formação em Desenvolvedora Front-end pelo bootcamp da Laboratoria e em Java pelo bootcamp do IGTI (Atual XPe).
+  - 👩🏻‍🎓 Possuo formação em Desenvolvedora Front-end pelo bootcamp da Laboratoria e atualmente estudo Análise de Dados.
   - 🔸 Tenho conhecimentos na área de UX Design, advindos do curso livre Desenvolvimento Web - Design de Experiência do Usuário pelo SENAC Salto e UX/UI: fundamentos para o design de interface do Coursera fornecido pela USP.
   - 🙋🏻‍♀️ **Pronomes:** ela | dela.
   - 🇧🇷 **Localização:** Brasil
