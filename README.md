@@ -2,10 +2,8 @@
 
 
   - 👩🏻‍🎓 Possuo formação em Desenvolvedora Front-end pelo bootcamp da Laboratoria e atualmente estudo Análise de Dados.
-  - 🔸 Tenho conhecimentos na área de UX Design, advindos do curso livre Desenvolvimento Web - Design de Experiência do Usuário pelo SENAC Salto e UX/UI: fundamentos para o design de interface do Coursera fornecido pela USP.
-  - 🙋🏻‍♀️ **Pronomes:** ela | dela.
+  - 🔸 Tenho conhecimentos na área de UX Design.
   - 🇧🇷 **Localização:** Brasil
-  - 📫 **E-mail:** a.kirstein.w@gmail.com
  
       <a href="https://www.linkedin.com/in/adrianatwatanabe" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin de Adriana T Watanabe"></a>
 
