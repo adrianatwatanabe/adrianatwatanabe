@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou Adriana Tiemi Watanabe.</h1>
 
 
-  - 👩🏻‍🎓 Possuo formação em Desenvolvedora Front-end pelo bootcamp da Laboratoria e atualmente estudo Análise de Dados.
+  - 👩🏻‍🎓 Possuo formação em Desenvolvedora Front-end pelo bootcamp da Laboratoria e atualmente estudo HTML5, CSS3, JavaScript e como backend Java e NodeJs.
   - 🔸 Tenho conhecimentos na área de UX Design.
   - 🇧🇷 **Localização:** Brasil
  
